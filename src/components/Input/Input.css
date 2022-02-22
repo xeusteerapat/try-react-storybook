@@ -1,0 +1,23 @@
+.small {
+  width: 250px;
+  height: 1.5rem;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.medium {
+  width: 500px;
+  height: 2rem;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.large {
+  width: 750px;
+  height: 2.5rem;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+}
